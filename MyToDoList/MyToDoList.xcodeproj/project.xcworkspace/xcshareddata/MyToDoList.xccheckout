@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2CE929B4-1A1F-4D1E-A639-CCCA9CA0D99E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MyToDoList</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>976136689F2ED86FCAAC76128C846FDDFF7D3C25</key>
+		<string>https://github.com/praneethnani/IOSAPPS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MyToDoList/MyToDoList.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>976136689F2ED86FCAAC76128C846FDDFF7D3C25</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/praneethnani/IOSAPPS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>976136689F2ED86FCAAC76128C846FDDFF7D3C25</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>976136689F2ED86FCAAC76128C846FDDFF7D3C25</string>
+			<key>IDESourceControlWCCName</key>
+			<string>IOSAPPS</string>
+		</dict>
+	</array>
+</dict>
+</plist>
